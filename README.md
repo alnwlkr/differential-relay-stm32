@@ -166,7 +166,22 @@ After boot, the relay enters continuous protection mode, evaluating I_diff every
 
 Project team — KMITL Electrical Engineering, Semester 2/2025:
 
-Jirachayaporn Sirimongkolchaiyakul, Chawalwit Ruammitsamak, Chotiwut Samranmak, Chanawit Kaeogyai, Natchaphon Sanlek, Natthapon Duangchai, Nattaphon Seena, Nattawat Sirikurunat, Tanatip Kawthaisong, Thanet Suksri, Phongpada Anoma, Phachara Khunaphon, Rachata Phongsuthi, Ratchata Ngiaophai, Wittawat Inkaew
+Project Team Leader : Pongpada Anoma
+Team Members
+Jiratchayaporn Sirimongkolchaikul
+Chavalwit Ruammitsamak
+Chotiwut Samranmak
+Chanwit Kaewyai
+Nadchaporn Sanlek
+Natthaporn Duagchai
+Nattaphol Seena
+Nattawat Sirikururat
+Thanatip Kaothaisong
+Tanate Sooksri
+Patchara Kunaporn
+Rachata Pongsutti
+Ratchata Ngiaophai
+Wittawach Inkaew
 
 Advisor: Assoc. Prof. Dr. Attaphol Ngaopitakkul
 
