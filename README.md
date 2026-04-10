@@ -36,7 +36,7 @@ differential-relay-stm32/
 │       └── ...  (G01–G15, ~70 MB total)
 │
 ├── docs/
-│   └── Differential_Relay_Report.docx           # Full project report (Thai)
+│   └── Differential_Relay_Report.pdf            # Full project report (Thai)
 │
 └── hardware/
     └── bom.md                                   # Bill of Materials + pin assignment
